@@ -1,0 +1,1 @@
+from math import sqrt #da biblioteca de matematica importe o sqrt
